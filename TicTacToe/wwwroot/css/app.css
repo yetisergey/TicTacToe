@@ -1,0 +1,8 @@
+﻿html,
+body {
+    margin: 0px;
+}
+
+#squares {
+    border: 1px solid black;
+}
